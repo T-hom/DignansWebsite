@@ -90,13 +90,16 @@ ader-button {
 .login-button {
     padding: 7px 20px;
     font-size: 1em;
-    background-color: #ffff;
-    color: #000;
-    border: 1px;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #ccc; 
     cursor: pointer;
     border-radius: 2px;
-    margin-left:10px;
+    text-decoration: none; 
+    display: inline-block; 
+    margin-left: 10px;
 }
+
 .about-content button {
     padding: 10px 35px;
     font-size: 1em;
