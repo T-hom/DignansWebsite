@@ -90,22 +90,19 @@ ader-button {
 .login-button {
     padding: 7px 20px;
     font-size: 1em;
-    background-color: #ffffff;
-    color: #000000;
-    border: 1px solid #ccc; 
+    background-color: #ffff;
+    color: #000;
+    border: 1;
     cursor: pointer;
     border-radius: 2px;
-    text-decoration: none; 
-    display: inline-block; 
-    margin-left: 10px;
+    margin-left:10px;
 }
-
 .about-content button {
     padding: 10px 35px;
     font-size: 1em;
     background-color: #ffff;
     color: #000;
-    border: 1px;
+    border: 1;
     cursor: pointer;
     border-radius: 5px
 }
@@ -166,7 +163,7 @@ ader-button {
     font-size: 1em;
     background-color: #ffff;
     color: #000;
-    border: 1px;
+    border: 1;
     cursor: pointer;
     border-radius: 10px
 }
@@ -355,7 +352,7 @@ footer {
     font-size: 1em;
     background-color: #ffff;
     color: #000;
-    border: 1px;
+    border: 1;
     cursor: pointer;
     border-radius: 2px;
     margin-top: 20px;
