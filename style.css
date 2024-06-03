@@ -92,7 +92,7 @@ ader-button {
     font-size: 1em;
     background-color: #ffff;
     color: #000;
-    border: 1;
+    border: 1px;
     cursor: pointer;
     border-radius: 2px;
     margin-left:10px;
